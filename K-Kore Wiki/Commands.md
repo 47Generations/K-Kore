@@ -5,7 +5,10 @@
 <h4><b>Press "TAB" + "Y" to Talk to Scripted NPC</b> <i>-----Not Implemented yet.</i></h4>
 <br>
 <h3>Commands: </h3>
-<h4><b>/savetp</b> <i>Allows you to save Teleport Coordinates... -----SYNTAX: /savetp Name</i></h4>
+<h4><b>/savetp</b> <i>Allows you to save Teleport Coordinates... -----SYNTAX: /savetp Name</i><br>
+<b>/tp</b> <i>Allows you to Teleport to Saved Coordinates... -----SYNTAX: /tp Name</i>
+</h4>
+
 
 
 
