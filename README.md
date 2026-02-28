@@ -4,10 +4,10 @@
 K-Kore is a GTA SA Single Player Game Mode / Modification.
 <br> 
 ## Requirements:
--This Library
--Grand Theft Auto: San Andreas downgraded to Version 1
+<p>--This Library</p>
+<p>--Grand Theft Auto: San Andreas downgraded to Version 1</p>
 
 ## Features
 
 ## Roadmap
-###Things that will be added:
+<p>Things that will be added:</p>
