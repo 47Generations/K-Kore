@@ -13,6 +13,7 @@ K-Kore is a GTA SA Single Player Game Mode / Modification.
 ## Roadmap
 <h4>Things that will be added:</h4>
 <p>+Drug Dealing Job
-<br>Drug / Turd Wars (Earning your Corner
-<br> 
+<br>+Drug / Turf Wars (Earning your Corner.
+<br>+Criminal Record Sheet
+<br>
 </p>
