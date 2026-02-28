@@ -1,0 +1,43 @@
+
+ MoonLoader v.027.0-preview3 loaded.
+ Developers: FYP, hnnssy, EvgeN 1137
+
+ Copyright (c) 2016, BlastHack Team
+ http://blast.hk/moonloader/
+
+[21:20:34.188306] (debug)	Module handle: 0x71e80000
+[21:20:34.188306] (info)	Working directory: C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader
+[21:20:34.188306] (debug)	FP Control: 0x0009001F
+[21:20:34.188306] (debug)	Windows: 10.0.19045 2
+[21:20:34.188306] (debug)	Game: GTA SA 1.0 US 'HoodLum'
+[21:20:34.188306] (system)	Installing pre-game hooks...
+[21:20:34.203934] (system)	Hooks installed.
+[21:20:37.250711] (debug)	Opcode handler table: 0x723a1150
+[21:20:37.266334] (debug)	LUA_PATH = C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\libstd\?.lua;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\libstd\?\init.lua;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\lib\?.lua;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\lib\?.luac;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\lib\?\init.lua;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\lib\?\init.luac
+[21:20:37.266334] (debug)	LUA_CPATH = C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\libstd\?.dll;C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\lib\?.dll
+[21:20:37.322094] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\CommandHandler.lua"...	(id:1)
+[21:20:37.342155] (system)	CommandHandler.lua: Loaded successfully.
+[21:20:37.342155] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\InventoryHandler.lua"...	(id:2)
+[21:20:37.357203] (system)	InventoryHandler.lua: Loaded successfully.
+[21:20:37.357203] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\MasterLoader.lua"...	(id:3)
+[21:20:37.359211] (system)	MasterLoader.lua: Loaded successfully.
+[21:20:56.601810] (system)	Installing post-load hooks...
+[21:20:56.601810] (system)	Hooks installed.
+[21:20:57.603909] (script)	MasterLoader.lua: K-Kore: Found plugin HaloJumpCheat.lua
+[21:20:57.604912] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\K-Kore\Scripts\HaloJumpCheat.lua"...	(id:4)
+[21:20:57.610932] (system)	HaloJumpCheat.lua: Loaded successfully.
+[21:21:01.161348] (system)	MasterLoader.lua: Script terminated. (id:3)
+[21:31:35.853948] (system)	CommandHandler.lua: Script terminated. (id:1)
+[21:31:35.856959] (system)	InventoryHandler.lua: Script terminated. (id:2)
+[21:31:35.858965] (system)	HaloJumpCheat.lua: Script terminated. (id:4)
+[21:31:35.858965] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\CommandHandler.lua"...	(id:5)
+[21:31:35.872008] (system)	CommandHandler.lua: Loaded successfully.
+[21:31:35.872008] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\InventoryHandler.lua"...	(id:6)
+[21:31:35.883044] (system)	InventoryHandler.lua: Loaded successfully.
+[21:31:35.883044] (system)	Loading script "C:\Users\HCIMX\Desktop\KrypticJaze\GTA SA\moonloader\K-Kore\Scripts\HaloJumpCheat.lua"...	(id:7)
+[21:31:35.885051] (system)	HaloJumpCheat.lua: Loaded successfully.
+[21:33:02.747999] (system)	Unloading...
+[21:33:02.747999] (system)	CommandHandler.lua: Script terminated. (id:5)
+[21:33:02.760038] (system)	InventoryHandler.lua: Script terminated. (id:6)
+[21:33:02.765056] (system)	HaloJumpCheat.lua: Script terminated. (id:7)
+[21:33:02.798165] (system)	Session terminated.

@@ -1,0 +1,5 @@
+local settings = {
+    username = "CJ",
+    haloJumpEnabled = false,
+    inventorySize = 9
+}
