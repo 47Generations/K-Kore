@@ -10,6 +10,12 @@ K-Kore is a GTA SA Single Player Game Mode / Modification.
 
 ## Features
 
+## Installation
+<p><b>Step 1:</b> Download as .zip</p>
+<p><b>Step 2:</b> Extract Files</p>
+<p><b>Step 3:</b> Copy all files to your GTA SA Folder</p>
+
+
 ## Roadmap
 <h4>Things that will be added:</h4>
 <p>+Drug Dealing Job
